@@ -4,7 +4,7 @@
 
 <div>
 
-<div id="about-me" display="inline-block">
+<div id="about-me" display="inline-block" *display="inline">
     <h2>About me</h2>
     <p>🔭 Currently working on:</p>
     <ul>
@@ -22,7 +22,7 @@
     <p>📫 How to reach me: porlof13@outlook.com</p>
 </div>
 
-<div id="techstack" display="inline-block">
+<div id="techstack" display="inline-block" *display="inline">
     <h2>My techstack</h2>
     <h3>Game development</h3>
     <code><img height="48" alt="godot" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"></code>
