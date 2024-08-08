@@ -20,7 +20,7 @@
   </div>
   <div>
     <code>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forklovee)](https://github.com/anuraghazra/github-readme-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forklovee)](https://github.com/anuraghazra/github-readme-stats)
     ![](https://komarev.com/ghpvc/?username=forklovee&style=for-the-badge&color=blue)
     </code>
   </div>
