@@ -1,10 +1,14 @@
+<style type="text/css">
+#about-me, #techstack {display:inline-block;}
+</style>
+    
 <h1>Hi! I'm Peter 👋</h1>
 
 <p align="center" size=24pt>I'm a self taught game-dev and software developer from Poland</p>
 
 <div>
 
-<div class="about-me">
+<div id="about-me">
     <h2>About me</h2>
     <p>🔭 Currently working on:</p>
     <ul>
@@ -22,7 +26,7 @@
     <p>📫 How to reach me: porlof13@outlook.com</p>
 </div>
 
-<div class="techstack">
+<div id="techstack">
     <h2>My techstack</h2>
     <h3>Game development</h3>
     <code><img height="48" alt="godot" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"></code>
