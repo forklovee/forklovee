@@ -20,12 +20,12 @@
 
 <div id="about-me">
     <h2>About me</h2>
-    <p>🔭 Currently working on:</p>
+    <h3>🔭 Currently working on:</h3>
     <ul>
       <li>NocturnisLux (Unreal Engine 5.4)</li>
       <li>Mycoplastic (Godot 4)</li>
     </ul>
-    <p>🌱 Currently learning</p>
+    <h3>🌱 Currently learning</h3>
     <ul>
         <li>Spring</li>
         <li>Angular</li>
