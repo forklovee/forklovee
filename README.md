@@ -18,14 +18,18 @@
     <code><img height="48" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"></code>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forklovee)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=forklovee&style=for-the-badge&color=blue)
-
 <h2>About me</h2>
-- 🔭 Currently working on:
-  - NocturnisLux (Unreal Engine 5.4)
-  - Mycoplastic (Godot 4) 
-- 🌱 Currently learning
-  - Spring
-  - Angular
+<p>🔭 Currently working on:</p>
+<ul>
+  <li>NocturnisLux (Unreal Engine 5.4)</li>
+  <li>Mycoplastic (Godot 4)</li>
+</ul>
+<br>
+<p>🌱 Currently learning</p>
+<ul>
+    <li>Spring</li>
+    <li>Angular</li>
+    <li>C++</li>
+    <li>SDL2</li>
+</ul>
 - 📫 How to reach me: porlof13@outlook.com
