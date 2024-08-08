@@ -2,27 +2,7 @@
 
 <p align="center" size=24pt>I'm a self taught game-dev and software developer from Poland</p>
 
-<div>
-
-<div id="about-me" display="inline-block" *display="inline">
-    <h2>About me</h2>
-    <p>🔭 Currently working on:</p>
-    <ul>
-      <li>NocturnisLux (Unreal Engine 5.4)</li>
-      <li>Mycoplastic (Godot 4)</li>
-    </ul>
-    <br>
-    <p>🌱 Currently learning</p>
-    <ul>
-        <li>Spring</li>
-        <li>Angular</li>
-        <li>C++</li>
-        <li>SDL2</li>
-    </ul>
-    <p>📫 How to reach me: porlof13@outlook.com</p>
-</div>
-
-<div id="techstack" display="inline-block" *display="inline">
+<div id="techstack">
     <h2>My techstack</h2>
     <h3>Game development</h3>
     <code><img height="48" alt="godot" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"></code>
@@ -38,5 +18,19 @@
     <code><img height="48" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"></code>
 </div>
 
+<div id="about-me">
+    <h2>About me</h2>
+    <p>🔭 Currently working on:</p>
+    <ul>
+      <li>NocturnisLux (Unreal Engine 5.4)</li>
+      <li>Mycoplastic (Godot 4)</li>
+    </ul>
+    <p>🌱 Currently learning</p>
+    <ul>
+        <li>Spring</li>
+        <li>Angular</li>
+        <li>C++</li>
+        <li>SDL2</li>
+    </ul>
 </div>
 
