@@ -1,6 +1,6 @@
 <h1>Hi! I'm Peter 👋</h1>
 
-<p align="center" size=24pt>I'm a self taught game-dev and software developer from Poland</p>
+<p align="center" size=24pt>I'm a self taught game and software developer from Poland</p>
 
 <div id="techstack">
     <h2>🔧 My techstack</h2>
