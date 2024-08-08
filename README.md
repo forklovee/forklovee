@@ -22,9 +22,9 @@
     <h2>💁‍♂️ About me</h2>
     <h3>🔭 Currently working on:</h3>
     <ul>
-      <li>🦇 NocturnisLux (Unreal Engine 5.4)</li>
-      <li>🍄 Mycoplastic (Godot 4)</li>
-      <li>😫 Software development portfolio</li>
+      <li>NocturnisLux (Unreal Engine 5.4)</li>
+      <li>Mycoplastic (Godot 4)</li>
+      <li>😫 Software development portfolio 😫</li>
     </ul>
     <h3>🌱 Currently learning</h3>
     <ul>
