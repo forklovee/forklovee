@@ -5,6 +5,7 @@
 <div id="techstack">
     <h2>🔧 My techstack</h2>
     <h3>🎮 Game development</h3>
+    <i>All my games are available on <p src="https://forklovee.itch.io/">itch.io!</p></i>
     <code><img height="48" alt="godot" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"></code>
     <code><img height="48" alt="unreal" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00"></code>
     <h3>🖥️ Software development</h3>
