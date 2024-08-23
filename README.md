@@ -1,5 +1,6 @@
 <h1>Hi! I'm Peter 👋</h1>
 
+<h2>🔧 My techstack</h2>
 <h3>🖥️ Software development</h3>
 <code><img height="48" alt="java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="48" alt="spring" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></code>
@@ -10,7 +11,6 @@
 <code><img height="48" alt="javascript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></code>
 <code><img height="48" alt="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"></code>
 <br>
-<h2>🔧 My techstack</h2>
 <h3>🎮 Game development</h3>
 <i>All my games are available on my <a href="https://forklovee.itch.io/">itch.io profile!</a></i><br><br>
 <code><img height="48" alt="godot" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"></code>
