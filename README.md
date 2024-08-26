@@ -1,5 +1,3 @@
-<h1>Hi! I'm Peter 👋</h1>
-
 <h2>🔧 My techstack</h2>
 <h3>🖥️ Software development</h3>
 <code><img height="48" alt="java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
