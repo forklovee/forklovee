@@ -1,4 +1,4 @@
-<h1>🎮 Gameplay developer</h1>
+<h1>🎮 Gameplay programmer</h1>
 <h2>🔧 My tech stack</h2>
 <code><img height="48" alt="c++" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="48" alt="python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
