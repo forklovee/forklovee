@@ -10,7 +10,7 @@
 
 <table>
   <tr>
-    <td width="260">
+    <td width="200">
       <a href="https://forklovee.itch.io/roguebug">
         <img src="assets/RogueBugs.png" alt="Rogue Bugs" width="250">
       </a>
@@ -23,7 +23,7 @@
   </tr>
 
   <tr>
-    <td width="260">
+    <td width="200">
       <a href="https://forklovee.itch.io/robo-and-blob-of-void">
         <img src="https://img.itch.zone/aW1nLzIxNTg2MTcwLnBuZw==/315x250%23c/awOxQY.png" alt="Robo and the Unknowable Blob of Void" width="250">
       </a>
@@ -36,7 +36,7 @@
   </tr>
 
   <tr>
-    <td width="260">
+    <td width="200">
       <a href="https://forklovee.itch.io/a-world-apart-from-man-jam">
         <img src="https://img.itch.zone/aW1nLzE1NDcyMzY2LnBuZw==/315x250%23c/QqHyPd.png" alt="A WORLD A/PART: FROM MAN" width="250">
       </a>
