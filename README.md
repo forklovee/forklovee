@@ -1,5 +1,4 @@
 # Hi! I'm Piotrek!
-### Gameplay/Engine/Tools Developer
 ## 🛠️ Techstack
 <code><img height="48" alt="c++" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
 <code><img height="48" alt="python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
