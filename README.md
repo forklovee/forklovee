@@ -17,7 +17,7 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://forklovee.itch.io/roguebug">Rogue Bugs</a></h3>
+      <h3><a href="https://forklovee.itch.io/roguebug">Rogue Bugs (2025)</a></h3>
       <p><strong>Role:</strong> Programmer, Game Designer</p>
       <p><em>A 3D beat 'em up platformer about rebellious insects.</em></p>
     </td>
@@ -30,7 +30,7 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://forklovee.itch.io/robo-and-blob-of-void">Robo and the Unknowable Blob of Void</a></h3>
+      <h3><a href="https://forklovee.itch.io/robo-and-blob-of-void">Robo and the Unknowable Blob of Void (2025)</a></h3>
       <p><strong>Role:</strong> Programmer, Game Designer, 2D/3D Artist</p>
       <p><em>A short 3D puzzle/strategy game made in Godot 4 about a robot facing cosmic horror.</em></p>
     </td>
@@ -43,7 +43,7 @@
       </a>
     </td>
     <td>
-      <h3><a href="https://forklovee.itch.io/a-world-apart-from-man-jam">A WORLD A/PART: FROM MAN</a></h3>
+      <h3><a href="https://forklovee.itch.io/a-world-apart-from-man-jam">A WORLD A/PART: FROM MAN (2024)</a></h3>
       <p><strong>Role:</strong> Programmer, 3D Artist, Writer</p>
       <p><em>3D metroidvania made in Unreal Engine 5 where a forgotten machine unravels the secrets of humanity’s ruins. </em></p>
     </td>
