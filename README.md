@@ -1,13 +1,8 @@
 # Hi! I'm Piotrek!
-## 🛠️ Techstack
-<code><img height="32" alt="c++" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
-<code><img height="32" alt="python" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg"></code>
-<code><img height="32" alt="cmake" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg"></code>
-<code><img height="32" alt="godot" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg"></code>
-<code><img height="32" alt="unreal" src="https://github.com/tandpfun/skill-icons/blob/main/icons/UnrealEngine.svg"></code><br>
+Game and Software developer.
 
-## 🎮 Games I've worked on!
-
+## 🎮 Some of games I've worked on!
+[Check out my itch.io page!](https://forklovee.itch.io)
 <table>
   <tr>
     <td width="150">
